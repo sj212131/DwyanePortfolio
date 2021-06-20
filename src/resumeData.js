@@ -58,7 +58,7 @@ let resumeData = {
   work: [
     {
       CompanyName: "DVORA Life",
-      specialization: "Operation",
+      specialization: "Assistant Operation Manager",
       MonthOfLeaving: "Current Job",
       YearOfLeaving: "2021",
       Achievements: "Managing over 680 units",
