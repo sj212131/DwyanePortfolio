@@ -71,7 +71,7 @@ let resumeData = {
       Achievements: "Supervised Front operation and training",
     },
   ],
-  skillsDescription: "Your skills here",
+  skillsDescription: "My skills",
   skills: [
     {
       skillname: "Javascript",
