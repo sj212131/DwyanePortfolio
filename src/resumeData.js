@@ -82,6 +82,24 @@ let resumeData = {
     {
       skillname: "Python",
     },
+    {
+      skillname: "MongoDB",
+    },
+    {
+      skillname: "Node",
+    },
+    {
+      skillname: "MySQL",
+    },
+    {
+      skillname: "API",
+    },
+    {
+      skillname: "Express",
+    },
+    {
+      skillname: "jQuery",
+    },
   ],
   portfolio: [
     {
