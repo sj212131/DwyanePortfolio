@@ -22,13 +22,8 @@ export default class Porfolio extends Component {
                             className="item-img"
                             alt={item.name}
                           />
-                          <div className="overlay">
-                            <div>
-                              <h5>{item.name}</h5>
-                              <p>{item.description}</p>
-                            </div>
-                          </div>
                         </a>
+                        <h5>{item.name}</h5>
                       </div>
                     </div>
                   );

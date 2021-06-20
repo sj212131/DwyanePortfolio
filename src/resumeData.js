@@ -115,16 +115,16 @@ let resumeData = {
       url: "https://ancient-wave-31889.herokuapp.com/",
     },
     {
+      name: "Google Book Search",
+      description: " ",
+      imgurl: "images/portfolio/BookSearch_logo.png",
+      url: "https://googlebksearch.herokuapp.com/",
+    },
+    {
       name: "Tech Blog model",
       description: " ",
       imgurl: "images/portfolio/BlogModel_logo.png",
       url: "https://arcane-sierra-49666.herokuapp.com/",
-    },
-    {
-      name: "Notepad model",
-      description: " ",
-      imgurl: "images/portfolio/Notepad_logo.png",
-      url: "https://aqueous-taiga-55661.herokuapp.com/",
     },
   ],
 };
