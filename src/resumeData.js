@@ -31,7 +31,7 @@ let resumeData = {
   aboutme:
     "I am a Python Data analyst. Web developer. Assistant operation manager. Multiple languages speaker English Korean & Chinese. Also, Stream Gaming!",
   address: "New York/ New Jersey",
-  website: "https://sj212131.github.io/DwyaneProfile/",
+  website: "https://dwyaneportfolio.herokuapp.com/",
   education: [
     {
       UniversityName: "Columbia University",
