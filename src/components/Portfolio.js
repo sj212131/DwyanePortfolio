@@ -14,7 +14,7 @@ export default class Porfolio extends Component {
               {resumeData.portfolio &&
                 resumeData.portfolio.map((item) => {
                   return (
-                    <div className="columns portfolio-item">
+                    <div key={item.name} className="columns portfolio-item">
                       <div className="item-wrap">
                         <a href={item.url} target="_blank">
                           <img
