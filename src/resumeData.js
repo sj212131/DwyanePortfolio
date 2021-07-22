@@ -103,6 +103,12 @@ let resumeData = {
   ],
   portfolio: [
     {
+      name: "Prperty-Crm-system",
+      description: " ",
+      imgurl: "images/portfolio/Propertycrm_logo.jpg",
+      url: "https://property-management-crm.herokuapp.com/",
+    },
+    {
       name: "Personality quiz",
       description: " ",
       imgurl: "images/portfolio/StarWar_logo.png",
@@ -115,16 +121,22 @@ let resumeData = {
       url: "https://ancient-wave-31889.herokuapp.com/",
     },
     {
-      name: "Google Book Search",
-      description: " ",
-      imgurl: "images/portfolio/BookSearch_logo.png",
-      url: "https://googlebksearch.herokuapp.com/",
-    },
-    {
       name: "Tech Blog model",
       description: " ",
       imgurl: "images/portfolio/BlogModel_logo.png",
       url: "https://arcane-sierra-49666.herokuapp.com/",
+    },
+    {
+      name: "Employee Directory & Searching",
+      description: " ",
+      imgurl: "images/portfolio/Employeedir_logo.png",
+      url: "https://randomemployeedir01.herokuapp.com/",
+    },
+    {
+      name: "Google Book Search",
+      description: " ",
+      imgurl: "images/portfolio/BookSearch_logo.png",
+      url: "https://googlebksearch.herokuapp.com/",
     },
   ],
 };
