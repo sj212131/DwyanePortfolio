@@ -236,7 +236,7 @@ ul#nav li.current a {
   letter-spacing: 1px;
 }
 #resume h1 span {
-  border-bottom: 3px solid #11abb0;
+  border-bottom: 3px solid #12664f;
   padding-bottom: 6px;
 }
 #resume h3 {
@@ -284,7 +284,7 @@ ul#nav li.current a {
 .bars li {
   position: relative;
   margin-bottom: 60px;
-  background: #ccc;
+  background: #8fd2ad;
   height: 42px;
   border-radius: 3px;
 }
@@ -304,7 +304,7 @@ ul#nav li.current a {
 
   margin: 0;
   padding-right: 24px;
-  background: #313131;
+  background: #12664f;
   display: inline-block;
   height: 42px;
   line-height: 42px;
@@ -447,11 +447,32 @@ ul#nav li.current a {
   color: #95a3a3;
 }
 #portfolio-wrapper {
-  display: flex;
+  width: 70%;
+  justify-items: center;
+  text-align: left;
+  display: grid;
 }
+#portfolio h1 {
+  font: 18px/24px "opensans-bold", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 3px solid #12664f;
+  padding-bottom: 6px;
+  color: black;
+  text-align: left;
+  width: 12rem;
+}
+
+.work-container {
+  display: inline-block;
+}
+
 #portfolio-wrapper .columns {
   margin-bottom: 36px;
+  width: 75rem;
+  text-align: center;
 }
+
 .portfolio-item .item-wrap {
   background: #fff;
   overflow: hidden;
@@ -469,7 +490,7 @@ ul#nav li.current a {
 }
 
 .portfolio-item .item-wrap .overlay {
-  position: absolute;
+  position: relative;
   left: 0;
   top: 0;
   width: 100%;
