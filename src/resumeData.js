@@ -5,7 +5,7 @@ let resumeData = {
   linkedinId: "Dwyane Piao",
   email: "sj212131@hotmail.com",
   roleDescription:
-    " Assistant operation manager and Python Data analyst. Multiple languages speaker English, Korean & Chinese. Also, Stream Gaming!",
+    " React web developer, Python Data analyst, Operation & Business developer. Multiple languages speaker English, Korean & Chinese. Also, Stream Gaming!",
   socialLinks: [
     {
       name: "linkedin",
@@ -29,7 +29,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "I am a Python Data analyst. Web developer. Assistant operation manager. Multiple languages speaker English Korean & Chinese. Also, Stream Gaming!",
+    "React web developer, Python Data analyst, Operation & Business developer. Multiple languages speaker English, Korean & Chinese. Also, Stream Gaming!",
   address: "New York/ New Jersey",
   website: "https://dwyaneportfolio.herokuapp.com/",
   education: [
@@ -58,10 +58,11 @@ let resumeData = {
   work: [
     {
       CompanyName: "DVORA Life",
-      specialization: "Assistant Operation Manager",
+      specialization: "Assistant Operation Manager & Front end Developer",
       MonthOfLeaving: "Current Job",
       YearOfLeaving: "2021",
-      Achievements: "Managing over 680 units",
+      Achievements:
+        "High-Performing Residential app for a portfolio of over 680 units",
     },
     {
       CompanyName: "Hotel Stanford New York",
