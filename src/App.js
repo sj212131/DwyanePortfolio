@@ -6,10 +6,6 @@ import Portfolio from "./components/Portfolio";
 import ContactUs from "./components/ContactUs";
 import Footer from "./components/Footer";
 import resumeData from "./resumeData";
-import AsyncStorage from "@react-native-async-storage/async-storage";
-import Parse from "parse/react-native";
-
-Parse.setAsyncStorage(AsyncStorage);
 class App extends Component {
   render() {
     return (
