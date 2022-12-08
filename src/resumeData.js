@@ -31,7 +31,7 @@ let resumeData = {
   aboutme:
     "React web developer, Python Data analyst, Operation & Business developer. Multiple languages speaker English, Korean & Chinese. Also, Stream Gaming!",
   address: "New York/ New Jersey",
-  website: "https://dwyaneportfolio.herokuapp.com/",
+  website: "https://sj212131.github.io/DwyanePortfolio/",
   education: [
     {
       UniversityName: "Columbia University",
@@ -107,13 +107,13 @@ let resumeData = {
       name: "Prperty-Crm-system",
       description: " ",
       imgurl: "images/portfolio/New_propertcrm_logo.png",
-      url: "https://property-management-crm.herokuapp.com/",
+      url: "https://github.com/sj212131/GardnerPropertyCRM",
     },
     {
       name: "BlackJax Casino",
       description: " ",
       imgurl: "images/portfolio/New_Bj_logo.png",
-      url: "https://ancient-wave-31889.herokuapp.com/",
+      url: "https://github.com/sj212131/blaxtrax",
     },
     {
       name: "Personality quiz",
@@ -125,19 +125,19 @@ let resumeData = {
       name: "Employee Directory & Searching",
       description: " ",
       imgurl: "images/portfolio/New_Employeedir_logo.png",
-      url: "https://randomemployeedir01.herokuapp.com/",
+      url: "https://github.com/sj212131/employee_directory",
     },
     {
       name: "Google Book Search",
       description: " ",
       imgurl: "images/portfolio/New_BookSearch_logo.png",
-      url: "https://googlebksearch.herokuapp.com/",
+      url: "https://github.com/sj212131/react-google-books-search",
     },
     {
       name: "Tech Blog model",
       description: " ",
       imgurl: "images/portfolio/New_BlogModel_logo.png",
-      url: "https://arcane-sierra-49666.herokuapp.com/",
+      url: "https://github.com/sj212131/Tech-Blog",
     },
   ],
 };
