@@ -107,7 +107,7 @@ let resumeData = {
       name: "Prperty-Crm-system",
       description: " ",
       imgurl: "images/portfolio/New_propertcrm_logo.png",
-      url: "https://github.com/sj212131/GardnerPropertyCRM",
+      url: "https://sj212131.github.io/GardnerPropertyCRM/",
     },
     {
       name: "BlackJax Casino",
