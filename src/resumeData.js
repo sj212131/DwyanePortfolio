@@ -1,8 +1,8 @@
 let resumeData = {
   imagebaseurl: "https://sj212131.github.io/DwyaneProfile/",
-  name: "Dwyane Piao",
+  name: "Wayne Piao",
   role: "full stack developer",
-  linkedinId: "Dwyane Piao",
+  linkedinId: "Wayne Piao",
   email: "sj212131@hotmail.com",
   roleDescription:
     " React web developer, Python Data analyst, Operation & Business developer. Multiple languages speaker English, Korean & Chinese. Also, Stream Gaming!",
@@ -24,7 +24,7 @@ let resumeData = {
     },
     {
       name: "Dwyane Resume",
-      url: "resumefile/Dwyane_Resume.pdf",
+      url: "resumefile/Wayne_Piao_Developer.pdf",
       className: "fas fa-id-card",
     },
   ],
